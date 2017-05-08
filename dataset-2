@@ -1,3 +1,11 @@
+This dataset include 100 editorials, all can be searched from http://shasetsu.seesaa.net/,
+a Japanese editorial summrization site.
+
+Due to the copyright issue, the original data cannot be included for direct download;
+instead, we show the meta data of the involved editorials (including the name of newspaper, publication date and title), 
+with which users can easily find the data from the site.
+
+
 The classification with respect to each label is based on whether a specific opinion is given in an editirial.
 The corresponding four opinions are as follows:
 
