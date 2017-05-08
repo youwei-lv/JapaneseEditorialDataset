@@ -1,5 +1,11 @@
-This dataset includes 500 editorials, as listed below.
-The first 200 ones are closely related to discussion on restart of nuclear power plants in Japan,
+This dataset includes 500 editorials, all can be searched from http://shasetsu.seesaa.net/,
+a Japanese editorial summrization site.
+
+Due to the copyright issue, the original data cannot be included for direct download;
+instead, we show the meta data of the involved editorials (including the name of newspaper, publication date and title), 
+with which users can easily find the data from the site.
+
+For this dataset, the first 200 ones are closely related to discussion on restart of nuclear power plants in Japan,
 whereas the others are not.
 
 Newspaper	Year	Month	Day	Title
